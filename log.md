@@ -15,3 +15,11 @@
 **Thoughts:** Had some trouble trying to fit the bars in the space. Till I did not divide gdp by a factor, all I got was a square of vertical lines becuase the graph was being cut off from the top. Took a lot of time in figuring out what was wrong. Need to add axis and tool-tip when we hover.
 
 **Link to work:** [BarChart] (https://github.com/gtalin/Data-Visualization)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Worked on fcc "Visualize Data with a Bar Chart" assignment.
+
+**Thoughts:** Adding of axis was tougher than I thought. The y-axis was getting cut off even when I added some margin. Spent a lot of time figuring it out. Adding and aligning the axis with the chart was tough. Since I hadn't made much progress in the barchart problem I did not push the barchart code. Instead I did a simple codewars kata just so I would be pushing some code to github.
+
+**Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
