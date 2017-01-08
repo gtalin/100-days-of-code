@@ -33,3 +33,11 @@ Better understood scale domain and range as well. On day 2 I thought the graph w
 Made svg pink to see how much free area I have for adding labels.
 
 **Link to work:** [BarChart] (https://github.com/gtalin/Data-Visualization)
+
+### Day 5: January 7, 2017
+
+**Today's Progress**: Parallax Scrolling
+
+**Thoughts:** Worked on HTML and CSS. Did parallax scrolling and added text over image. Selected some nice images under creative commons license, selected some quotes I like and added them all to make a simple page.
+
+**Link to work:** [parallax] (https://github.com/gtalin/tipsNtricks)
