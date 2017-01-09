@@ -41,3 +41,11 @@ Made svg pink to see how much free area I have for adding labels.
 **Thoughts:** Worked on HTML and CSS. Did parallax scrolling and added text over image. Selected some nice images under creative commons license, selected some quotes I like and added them all to make a simple page.
 
 **Link to work:** [parallax] (https://github.com/gtalin/tipsNtricks)
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: 2 codewars kata.
+
+**Thoughts:** Something is better than nothing.
+
+**Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
