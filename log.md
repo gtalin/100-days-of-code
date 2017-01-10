@@ -49,3 +49,11 @@ Made svg pink to see how much free area I have for adding labels.
 **Thoughts:** Something is better than nothing.
 
 **Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: Codewars: implementing an array object without using arrays.
+
+**Thoughts:** Further broadened my understanding of this, prototype chain. It was a good exercise.
+
+**Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
