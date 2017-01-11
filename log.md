@@ -73,4 +73,4 @@ Made svg pink to see how much free area I have for adding labels.
 **Thoughts:** It was a good exercise in CSS. Got to use: transform-origin, transform, transition, absolute and relative positioning. Used setInterval to animate (probably could've also used requestAnimationFrame)
 Encountered an error where the seconds hand spins in the opposite direction to get back to it's starting position (In my case it was 3). When I removed the line: transition: all .5s The error was rectified. Though I am not quite sure why this removed the error. Can work more on the beautification of the clock.
 
-**Link to work:** [Analog Clock] (https://github.com/gtalin/tipsNtricks)
+**Link to work:** [Analog Clock] (https://github.com/gtalin/tipsNtricks) Codepen link: [Analog Clock] (http://codepen.io/gtalin/pen/ZLQNZK)
