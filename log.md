@@ -57,3 +57,11 @@ Made svg pink to see how much free area I have for adding labels.
 **Thoughts:** Further broadened my understanding of this, prototype chain. It was a good exercise.
 
 **Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: Read up on node (express) in preparation for a project I have in mind. Two great resources [crud] (https://zellwk.com/blog/crud-express-mongodb/) and [Daniel Shiffman API in Node] (https://www.youtube.com/watch?v=P-Upi9TMrBk&t=156s) Did codewars kata. 
+
+**Thoughts:** Have several questions in my mind. Specially need to find ways to transfer data from server.js to client js script without using a template engine (in the blog link above, ejs has been used.) What I want is to transfer data to client js and do dom manipulation from client js.
+
+**Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
