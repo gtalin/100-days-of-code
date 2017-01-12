@@ -74,3 +74,12 @@ Made svg pink to see how much free area I have for adding labels.
 Encountered an error where the seconds hand spins in the opposite direction to get back to it's starting position (In my case it was 3). When I removed the line: transition: all .5s The error was rectified. Though I am not quite sure why this removed the error. Can work more on the beautification of the clock.
 
 **Link to work:** [Analog Clock] (https://github.com/gtalin/tipsNtricks) Codepen link: [Analog Clock] (http://codepen.io/gtalin/pen/ZLQNZK)
+
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Practiced with CSS (3D features) Cuboid which spins.
+
+**Thoughts:** Used perspective, perspective-origin and transform style. Also transform: rotateY(xdeg) and rotateX (till now had only encountered rotate which was rotation at an angle on a plane surface. Another new command transform: translate3d(0, 0, 50px); Which tells to move along the Z plane. (In translate3d(x,y,z), x and y are almost the same values as shifting along x or y axis. z is slightly different. It's more akin to an x axis shift (like translateX but with the perspective we have added.)
+
+**Link to work:** [Cuboid] (https://github.com/gtalin/tipsNtricks) Codepen link: [Cuboid] (http://codepen.io/gtalin/pen/RKaqJb)
