@@ -76,10 +76,11 @@ Encountered an error where the seconds hand spins in the opposite direction to g
 **Link to work:** [Analog Clock] (https://github.com/gtalin/tipsNtricks) Codepen link: [Analog Clock] (http://codepen.io/gtalin/pen/ZLQNZK)
 
 
-### Day 10: January 12, 2017
+### Day 11: January 13, 2017
 
-**Today's Progress**: Practiced with CSS (3D features) Cuboid which spins.
+**Today's Progress**: Read up on CSS. One kata in codewars
 
-**Thoughts:** Used perspective, perspective-origin and transform style. Also transform: rotateY(xdeg) and rotateX (till now had only encountered rotate which was rotation at an angle on a plane surface. Another new command transform: translate3d(0, 0, 50px); Which tells to move along the Z plane. (In translate3d(x,y,z), x and y are almost the same values as shifting along x or y axis. z is slightly different. It's more akin to an x axis shift (like translateX but with the perspective we have added.)
+**Thoughts:** Spent quite a lot of time reading up on CSS: creating background with radial gradient and linear gradient. How box-shadow and pseudo elements: ::after and ::before can be used to create shapes. 
+In the kata I made several mistakes by neglecting few things. Main being we had to sort the data before scaling which I did. But we had to sort on 2 variables (the value and the key) which I didn't. 
 
-**Link to work:** [Cuboid] (https://github.com/gtalin/tipsNtricks) Codepen link: [Cuboid] (http://codepen.io/gtalin/pen/RKaqJb)
+**Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
