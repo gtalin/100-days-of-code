@@ -84,3 +84,11 @@ Encountered an error where the seconds hand spins in the opposite direction to g
 In the kata I made several mistakes by neglecting few things. Main being we had to sort the data before scaling which I did. But we had to sort on 2 variables (the value and the key) which I didn't. 
 
 **Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
+
+### Day 12: January 14, 2017
+
+**Today's Progress**: Trees based kata codewars.
+
+**Thoughts:** Didn't have much time today. Attempted a problem finding paths in tree on codewars.
+
+**Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
