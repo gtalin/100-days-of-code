@@ -100,3 +100,13 @@ In the kata I made several mistakes by neglecting few things. Main being we had 
 **Thoughts:** A lot of shapes are possible in CSS with border-radius. We can add light effect by adding a shade of a lighter color in a darker color (eyes). Need yet to give depth perception to ears by adding shadow. Linear-gradient and radial-gradient can be used to produce a glossy effect (did not use it in this project yet)
 
 **Link to work:** [CSS Animal] (https://github.com/gtalin/tipsNtricks) on [codepen] (http://codepen.io/gtalin/pen/MJjbyx)
+
+### Day 14: January 16, 2017
+
+**Today's Progress**: Koala face with CSS. 
+
+**Thoughts:** Used pseudo element ::after and :: before along with box-shadow to make the hair of the Koala. Had made ear with border feature (to give it two colors: background color and border color) instead used ::after to remake the ear.
+Shadow inside ear to give it a depth (By box-shadow) and lighter patch on nose to give it a little shine (using ::after pseudo element and transform to rotate it)
+Used radial gradient above.
+
+**Link to work:** [CSS Animal] (https://github.com/gtalin/tipsNtricks) on [codepen] (http://codepen.io/gtalin/full/MJjbyx/)
