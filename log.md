@@ -92,3 +92,11 @@ In the kata I made several mistakes by neglecting few things. Main being we had 
 **Thoughts:** Didn't have much time today. Attempted a problem finding paths in tree on codewars.
 
 **Link to work:** [codewars] (https://github.com/gtalin/CodeWars)
+
+### Day 13: January 15, 2017
+
+**Today's Progress**: Worked on CSS. Halfway through making a Koala face with CSS. 
+
+**Thoughts:** A lot of shapes are possible in CSS with border-radius. We can add light effect by adding a shade of a lighter color in a darker color (eyes). Need yet to give depth perception to ears by adding shadow. Linear-gradient and radial-gradient can be used to produce a glossy effect (did not use it in this project yet)
+
+**Link to work:** [CSS Animal] (https://github.com/gtalin/tipsNtricks) on [codepen] (http://codepen.io/gtalin/pen/MJjbyx)
