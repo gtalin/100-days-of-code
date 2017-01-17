@@ -110,3 +110,11 @@ Shadow inside ear to give it a depth (By box-shadow) and lighter patch on nose t
 Used radial gradient above.
 
 **Link to work:** [CSS Animal] (https://github.com/gtalin/tipsNtricks) on [codepen] (http://codepen.io/gtalin/full/MJjbyx/)
+
+### Day 15: January 17, 2017
+
+**Today's Progress**: FreeCodeCamp API project for Timestamp Microservice.
+
+**Thoughts:** There was a gap between when I had first read up on express. Revised it and then setup the repo and basic server using express. Used two routes: a.) For when some parameter is passed to root and b.) when parameter is not passed. 
+
+**Link to work:** [timeStamp Microservice] (https://github.com/gtalin/timeStampMicroService) 
