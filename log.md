@@ -118,3 +118,14 @@ Used radial gradient above.
 **Thoughts:** There was a gap between when I had first read up on express. Revised it and then setup the repo and basic server using express. Used two routes: a.) For when some parameter is passed to root and b.) when parameter is not passed. 
 
 **Link to work:** [timeStamp Microservice] (https://github.com/gtalin/timeStampMicroService) 
+
+### Day 16: January 18, 2017
+
+**Today's Progress**: FreeCodeCamp API project for Timestamp Microservice.
+
+**Thoughts:** Worked on converting date parameter in URL to unix and human readable date. Tried to get the values as close to the demo app in fcc. If string form date is wrong, node automatically converts it to unix timestamp: 1008374400 (in firefox browser however if we do the same: Date.parse("Dec 15") we get NaN) which then converetd to human readable form becomes: Dec 15 2001. Have yet to make the home page explaining how to use API and then checking out options of how to deploy it. 
+Date to string: new Date(unix)
+Unix to human readable: Date.parse(string);
+Above commands with a few changes have been used.
+
+**Link to work:** [TimeStamp Microservice] (https://github.com/gtalin/timeStampMicroService) 
