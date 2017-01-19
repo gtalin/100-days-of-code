@@ -129,3 +129,11 @@ Unix to human readable: Date.parse(string);
 Above commands with a few changes have been used.
 
 **Link to work:** [TimeStamp Microservice] (https://github.com/gtalin/timeStampMicroService) 
+
+### Day 17: January 19, 2017
+
+**Today's Progress**: Made alien pixel art with JS.
+
+**Thoughts:** Pixel art is fun. Initially thougt to make one with box shadows then decided to use divs and JS instead.
+
+**Link to work:** [Pixel Art Alien] (http://codepen.io/gtalin/full/apJmLV/) [Pixel Art Alien] (https://github.com/gtalin/tipsNtricks) 
