@@ -137,3 +137,11 @@ Above commands with a few changes have been used.
 **Thoughts:** Pixel art is fun. Initially thougt to make one with box shadows then decided to use divs and JS instead.
 
 **Link to work:** [Pixel Art Alien] (http://codepen.io/gtalin/full/apJmLV/) [Pixel Art Alien] (https://github.com/gtalin/tipsNtricks) 
+
+### Day 18: January 20, 2017
+
+**Today's Progress**: Codewars kata to find the branch with maximum sum.
+
+**Thoughts:** It was mainly a problem of tree traversal (solved through recursion)
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
