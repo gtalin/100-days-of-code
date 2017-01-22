@@ -145,3 +145,11 @@ Above commands with a few changes have been used.
 **Thoughts:** It was mainly a problem of tree traversal (solved through recursion)
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 19: January 21, 2017
+
+**Today's Progress**: Codewars kata Arrays are objects in JS
+
+**Thoughts:** Codewars in JS are objects.
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
