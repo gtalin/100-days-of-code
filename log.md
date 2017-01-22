@@ -153,3 +153,11 @@ Above commands with a few changes have been used.
 **Thoughts:** Codewars in JS are objects.
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 20: January 22, 2017
+
+**Today's Progress**: Made modifications to pixel art. 
+
+**Thoughts:** Made some modifications in pixel art. Learned about getters and setters in JS. Working on d3 Heat map
+
+**Link to work:** [Pixel Art Alien] (https://github.com/gtalin/tipsNtricks) [Pixel art] (http://codepen.io/gtalin/full/YNVJWB/)
