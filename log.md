@@ -161,3 +161,12 @@ Above commands with a few changes have been used.
 **Thoughts:** Made some modifications in pixel art. Learned about getters and setters in JS. Working on d3 Heat map
 
 **Link to work:** [Pixel Art Alien] (https://github.com/gtalin/tipsNtricks) [Pixel art] (http://codepen.io/gtalin/full/YNVJWB/)
+
+## Day 21: January 23, 2017
+
+**Today's Progress**: Worked on D3 heat-map. Wrote a script to calculate height of a tree. 
+
+**Thoughts:** Spent quite a lot of time on D3. Did figure out how we can go about creating a heat map. Parsed the data so we can get an array of arrays for plotting a heat-map.
+Wanted to have some working code so write a script to calculate height of a binary tree. 
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
