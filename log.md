@@ -170,3 +170,11 @@ Above commands with a few changes have been used.
 Wanted to have some working code so write a script to calculate height of a binary tree. 
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 22: January 24, 2017
+
+**Today's Progress**: implemented dfs using recursion. 
+
+**Thoughts:** DFS using recursion.
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
