@@ -178,3 +178,13 @@ Wanted to have some working code so write a script to calculate height of a bina
 **Thoughts:** DFS using recursion.
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 23: January 25, 2017
+
+**Today's Progress**: D3 heat-map. 
+
+**Thoughts:** D3 heat-map. Had parsed data so that I just got an array of arrays. Was planning on building the heat map using rows and then cells in rows. Realised I did not need to do that. I could just use rect feature that I had used in making bar-char and simply use an array of objects. (previously I had parsed the data so that I had an array of rows. Each row containing variance for all years: 1753-2015 (a row for each month thus 12 rows)
+The new approach is much better. Have much to add yet: tooltip, axis, labels and most importantly color.
+DFS using iteration and path using dfs. 
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
