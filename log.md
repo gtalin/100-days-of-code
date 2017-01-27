@@ -188,3 +188,11 @@ The new approach is much better. Have much to add yet: tooltip, axis, labels and
 DFS using iteration and path using dfs. 
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 24: January 26, 2017
+
+**Today's Progress**: Worked a bit on D3 heat-map and did bfs.
+
+**Thoughts:** D3 heat-map color in the heat-map. bfs and path using bfs.
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
