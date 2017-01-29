@@ -205,3 +205,11 @@ DFS using iteration and path using dfs.
 Had some troubles with the dijkstra implementation because of on an assumption I made of the indices of graph and the indices of queue being the same (which was the case for the first iteration). But with each iteration, the length of queue reduced and thus direct mapping of index of Q and it's contents did not work.
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 26: January 28, 2017
+
+**Today's Progress**: Codewars Kata
+
+**Thoughts:** Read about regExp. Did a kata.
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
