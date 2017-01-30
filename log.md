@@ -213,3 +213,11 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 **Thoughts:** Read about regExp. Did a kata.
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 27: January 29, 2017
+
+**Today's Progress**: Heat-map. 
+
+**Thoughts:** Worked on heat-map D3. Basic grid layout after reading data.
+
+**Link to work:** [HeatMap] (https://github.com/gtalin/Data-Visualization)
