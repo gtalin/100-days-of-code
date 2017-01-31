@@ -221,3 +221,11 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 **Thoughts:** Worked on heat-map D3. Basic grid layout after reading data.
 
 **Link to work:** [HeatMap] (https://github.com/gtalin/Data-Visualization)
+
+## Day 28: January 30, 2017
+
+**Today's Progress**: Heat-map. 
+
+**Thoughts:** Color to heat map using color-scale and functioning tooltip.
+
+**Link to work:** [HeatMap] (https://github.com/gtalin/Data-Visualization)
