@@ -229,3 +229,11 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 **Thoughts:** Color to heat map using color-scale and functioning tooltip.
 
 **Link to work:** [HeatMap] (https://github.com/gtalin/Data-Visualization)
+
+## Day 29: January 31, 2017
+
+**Today's Progress**: Heat-map. 
+
+**Thoughts:** Legend and title. It's supposed to be a multi-line title. The method I've used doesn't seem the best.
+
+**Link to work:** [HeatMap] (https://github.com/gtalin/Data-Visualization)
