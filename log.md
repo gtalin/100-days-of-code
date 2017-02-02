@@ -237,3 +237,11 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 **Thoughts:** Legend and title. It's supposed to be a multi-line title. The method I've used doesn't seem the best.
 
 **Link to work:** [HeatMap] (https://github.com/gtalin/Data-Visualization)
+
+## Day 30: February 1, 2017
+
+**Today's Progress**: Heat-map. 
+
+**Thoughts:** Completed the heat map today. The multi-line title problem was resolved by adding "text" for each line using selectAll and enter() method. 
+
+**Link to work:** [HeatMap] (https://github.com/gtalin/Data-Visualization) on codepen [Heat Map] (http://codepen.io/gtalin/full/MJmpWg/)
