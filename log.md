@@ -245,3 +245,12 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 **Thoughts:** Completed the heat map today. The multi-line title problem was resolved by adding "text" for each line using selectAll and enter() method. 
 
 **Link to work:** [HeatMap] (https://github.com/gtalin/Data-Visualization) on codepen [Heat Map] (http://codepen.io/gtalin/full/MJmpWg/)
+
+## Day 31: February 2, 2017
+
+**Today's Progress**: Started on twitch tv free code camp app and did a slection sort implementation. 
+
+**Thoughts:** Started on twitch tv free code camp app and did a quick slection sort implementation. 
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
