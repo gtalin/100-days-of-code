@@ -254,3 +254,11 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
 
+## Day 32: February 3, 2017
+
+**Today's Progress**: GCD implementation
+
+**Thoughts:** Did a greatest common divisor implementation.
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
