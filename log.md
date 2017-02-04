@@ -262,3 +262,11 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
 
+## Day 33: February 4, 2017
+
+**Today's Progress**: Bubble sort
+
+**Thoughts:** Had a very hectic day and was too tired. But did not want to skip.
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
