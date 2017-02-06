@@ -270,3 +270,11 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
 
+## Day 34: February 5, 2017
+
+**Today's Progress**: Codewars kata
+
+**Thoughts:** Codewars kata
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
