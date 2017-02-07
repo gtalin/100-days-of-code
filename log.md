@@ -278,3 +278,10 @@ Had some troubles with the dijkstra implementation because of on an assumption I
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
 
+## Day 35: February 6, 2017
+
+**Today's Progress**: Fcc twitch tv app
+
+**Thoughts:** Worked on twitch TV app. Used flexbox
+
+**Link to work:** [Twitch] (https://github.com/gtalin/twitchTV)
