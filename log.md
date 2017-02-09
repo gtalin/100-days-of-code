@@ -295,3 +295,12 @@ The above process was fine if we had to display the data just once. But we have 
 So for this I decided to use deferred objects. Used when and then. However by this process, my nested getJSON stopped working. Tried to get it to work then realised like we are putting all getJSON calls into a stack, we can do the same thing for the getJSON statement we used to get the status of a channel (the one which was a nested getJSON previously. -- we were directly creating dom elements in the success callback of 1st getJSON and in the same callback had the nested 2nd getJSON which was creating the status part of the row and only in the success callback of the second getJSON did we append all the elements to dom.
 
 **Link to work:** [Twitch] (https://github.com/gtalin/twitchTV)
+
+## Day 37: February 8, 2017
+
+**Today's Progress**: Fcc twitch tv app
+
+**Thoughts:** Added the option to view just the "online", "offline" or "all" streamers.
+Could've used the option to hide the list elements. Instead chose to filter elements and reconstruct the list.
+
+**Link to work:** [Twitch] (https://github.com/gtalin/twitchTV) [codepen] (http://codepen.io/gtalin/full/WRKrWN/)
