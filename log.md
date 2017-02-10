@@ -312,3 +312,11 @@ Could've used the option to hide the list elements. Instead chose to filter elem
 **Thoughts:** Highest peak in each continent quiz.
 
 **Link to work:** [Quiz] (https://github.com/gtalin/tipsNtricks) 
+
+## Day 39: February 10, 2017
+
+**Today's Progress**: Quiz in HTML, CSS and vanilla JS
+
+**Thoughts:** Highest peak in each continent quiz.
+
+**Link to work:** [Quiz] (https://github.com/gtalin/tipsNtricks) [Quiz codepen] (http://codepen.io/gtalin/full/ggBNmY/)
