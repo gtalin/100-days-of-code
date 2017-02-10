@@ -304,3 +304,11 @@ So for this I decided to use deferred objects. Used when and then. However by th
 Could've used the option to hide the list elements. Instead chose to filter elements and reconstruct the list.
 
 **Link to work:** [Twitch] (https://github.com/gtalin/twitchTV) [codepen] (http://codepen.io/gtalin/full/WRKrWN/)
+
+## Day 38: February 9, 2017
+
+**Today's Progress**: Quiz in HTML, CSS and vanilla JS
+
+**Thoughts:** Highest peak in each continent quiz.
+
+**Link to work:** [Quiz] (https://github.com/gtalin/tipsNtricks) 
