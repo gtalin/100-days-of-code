@@ -320,3 +320,11 @@ Could've used the option to hide the list elements. Instead chose to filter elem
 **Thoughts:** Highest peak in each continent quiz.
 
 **Link to work:** [Quiz] (https://github.com/gtalin/tipsNtricks) [Quiz codepen] (http://codepen.io/gtalin/full/ggBNmY/)
+
+## Day 40: February 11, 2017
+
+**Today's Progress**: array2tree 
+
+**Thoughts:** Array to tree conversion. 
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
