@@ -328,3 +328,11 @@ Could've used the option to hide the list elements. Instead chose to filter elem
 **Thoughts:** Array to tree conversion. 
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 41: February 12, 2017
+
+**Today's Progress**: Request Header Parser Microservice free code camp
+
+**Thoughts:** Part of free code camp API projects. Completed the project and deployed it. Followed instructions on heroku dev center to deploy node js app on heroku. Had an initial error. Checked heroku logs (as well as compared my package.json file with the package.json file in the demo app in the node app deployment tutorial on heroku dev center) and found that I had not mentioned the "start" script. Once I did that and pushed the changes to heroku, my app was working. 
+
+**Link to work:** [Request Header API] (https://github.com/gtalin/requestHeader)  [HeaderAPI] (https://headparse007.herokuapp.com/api/whoami)
