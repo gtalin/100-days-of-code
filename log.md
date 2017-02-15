@@ -344,3 +344,12 @@ Could've used the option to hide the list elements. Instead chose to filter elem
 **Thoughts:** Just got started with the project. 
 
 **Link to work:** [url shortner] (https://github.com/gtalin/urlShortner) 
+
+## Day 43: February 14, 2017
+
+**Today's Progress**: URL shortner free code camp
+
+**Thoughts:** Was struggling to pass a url as paramter. Found I can use a wild character * for it.
+I thought I would use url package to parse the url but so far it's not working.
+
+**Link to work:** [url shortner] (https://github.com/gtalin/urlShortner) 
