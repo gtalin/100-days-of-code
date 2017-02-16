@@ -353,3 +353,11 @@ Could've used the option to hide the list elements. Instead chose to filter elem
 I thought I would use url package to parse the url but so far it's not working.
 
 **Link to work:** [url shortner] (https://github.com/gtalin/urlShortner) 
+
+## Day 44: February 15, 2017
+
+**Today's Progress**: Quote generator react
+
+**Thoughts:** Quote machine on react. The visualization is not that great.
+
+**Link to work:** [Quote machine react] (https://github.com/gtalin/tipsNtricks)  [Quote Machine react codepen] (http://codepen.io/gtalin/full/dNrrxm/) 
