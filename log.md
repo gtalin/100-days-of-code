@@ -369,3 +369,13 @@ I thought I would use url package to parse the url but so far it's not working.
 **Thoughts:** Implemented logic of url shortner as suggested in geeksforgeeks. Will come in handy for the URL shortner API free code camp.
 
 **Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
+
+## Day 46: February 17, 2017
+
+**Today's Progress**: URL shortner free code camp
+
+**Thoughts:** Parsed url using 'valid-url'. 
+Created mongodb in mLab. Used free code camp [turtorial] (https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Using-MongoDB-And-Deploying-To-Heroku) to access MongoDB from express. Spent a lot of time trying to figure out how to access the path set from ubuntu into the express file using process.env. It turns out the variable we set using export gets deleted as soon as we close the shell. It doesn't even work if we open a new shell window or tab. We need to run nodemon in the same terminal window (and tab) in which we use export to set set the MONGODB_URI.So finally was able to connect to the mLab DB from local system. 
+Need to create collection with actual url an reduced url. Will use the url shortner logic I implemented yesterday. 
+
+**Link to work:** [url shortner] (https://github.com/gtalin/urlShortner) 
