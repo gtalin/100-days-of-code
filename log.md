@@ -361,3 +361,11 @@ I thought I would use url package to parse the url but so far it's not working.
 **Thoughts:** Quote machine on react. The visualization is not that great.
 
 **Link to work:** [Quote machine react] (https://github.com/gtalin/tipsNtricks)  [Quote Machine react codepen] (http://codepen.io/gtalin/full/dNrrxm/) 
+
+## Day 45: February 16, 2017
+
+**Today's Progress**: url shortner 
+
+**Thoughts:** Implemented logic of url shortner as suggested in geeksforgeeks. Will come in handy for the URL shortner API free code camp.
+
+**Link to work:** [Codewars] (https://github.com/gtalin/CodeWars)
