@@ -379,3 +379,12 @@ Created mongodb in mLab. Used free code camp [turtorial] (https://github.com/Fre
 Need to create collection with actual url an reduced url. Will use the url shortner logic I implemented yesterday. 
 
 **Link to work:** [url shortner] (https://github.com/gtalin/urlShortner) 
+
+## Day 47: February 18, 2017
+
+**Today's Progress**: Pomodoro timer in progress.
+
+**Thoughts:** Spent quite a lot of time on Pomodoro timer today. Trying to write modular code so that my variables are not all over the place and if something breaks (which tends to happen when my program structure and flow are not right and I add some more functionality ) I have a better chance of fixing it. 
+On a side note initially wrote incorrect constructor for time (my data and functionality had got all mixed up) and was wrongly recreating the object repeatedly instead of just decrementing the one I had (because my constructor was wrong)
+
+**Link to work:** [Pomodoro WIP] (https://github.com/gtalin/tipsNtricks)
