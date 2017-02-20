@@ -388,3 +388,11 @@ Need to create collection with actual url an reduced url. Will use the url short
 On a side note initially wrote incorrect constructor for time (my data and functionality had got all mixed up) and was wrongly recreating the object repeatedly instead of just decrementing the one I had (because my constructor was wrong)
 
 **Link to work:** [Pomodoro WIP] (https://github.com/gtalin/tipsNtricks)
+
+## Day 48: February 19, 2017
+
+**Today's Progress**: Pomodoro timer.
+
+**Thoughts:** Worked on Pomodoro timer. 
+
+**Link to work:** [Pomodoro WIP] (https://github.com/gtalin/tipsNtricks)
