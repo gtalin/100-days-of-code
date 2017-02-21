@@ -396,3 +396,20 @@ On a side note initially wrote incorrect constructor for time (my data and funct
 **Thoughts:** Worked on Pomodoro timer. 
 
 **Link to work:** [Pomodoro WIP] (https://github.com/gtalin/tipsNtricks)
+
+## Day 49: February 20, 2017
+
+**Today's Progress**: Url shortner
+
+**Thoughts:** Learned more about mongodb commands and using mongodb with node.
+For example db.collection.count() gives the number of documents in a collection However to use the same in express, we have to tweak a bit:
+collection.find({}).toArray(function(err,docs) {console.log(docs.length});
+If we try to console collection.find().count() or collection.find({}).toArray() we get some weird results. 
+Also went through the comparison sheet between SQL and mongoDB.
+SQL: Database ; MongoBD: Database
+SQL: table    ; MongoBD: collection
+SQL: row      ; MongoBD: document
+SQL: column   ; MongoBD: field
+
+
+**Link to work:** [url shortner] (https://github.com/gtalin/urlShortner) 
