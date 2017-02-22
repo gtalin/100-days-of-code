@@ -411,5 +411,12 @@ SQL: table    ; MongoBD: collection
 SQL: row      ; MongoBD: document
 SQL: column   ; MongoBD: field
 
-
 **Link to work:** [url shortner] (https://github.com/gtalin/urlShortner) 
+
+## Day 50: February 22, 2017
+
+**Today's Progress**: Weather icons
+
+**Thoughts:** Made cloud, thunder bolt and rain using css
+
+**Link to work:** [Weather Icons] (https://github.com/gtalin/tipsNtricks) 
