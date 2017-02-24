@@ -429,3 +429,11 @@ SQL: column   ; MongoBD: field
 Also worked on the pomodoro timer. 
 
 **Link to work:** [Weather Icons] (https://github.com/gtalin/tipsNtricks) 
+
+## Day 52: February 23, 2017
+
+**Today's Progress**: Pomodoro timer
+
+**Thoughts:** WOrked on the Pomodoro Timer
+
+**Link to work:** [Pomodoro] (https://github.com/gtalin/tipsNtricks) 
