@@ -447,3 +447,11 @@ I used IP address to get the location (Name of place and geographic co-ordinates
 I used ip-info.io to get the location data. Now due to some misunderstanding with how to use the API with vanilla JS and jQuery, I spent quite a lot of time getting the JSON data (in XMLHttpRequest() we need to add ?callback at the end of the url to get the JSON data. It was mentioned in the documentation page however I was looking at the jQuery syntax (on the same page) and that did not have callback in the url.) However in the end I realised my wrong usage of API and was able to use vanilla JS to get the data.
 
 **Link to work:** [Weather App] (https://github.com/gtalin/tipsNtricks) 
+
+## Day 54: February 25, 2017
+
+**Today's Progress**: Weather App
+
+**Thoughts:** Used promises for the first time in my application. It was great to use it. The code looked much neater and organized + I got to learn how to use them.
+
+**Link to work:** [Weather App] (https://github.com/gtalin/tipsNtricks) 
