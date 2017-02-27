@@ -455,3 +455,13 @@ I used ip-info.io to get the location data. Now due to some misunderstanding wit
 **Thoughts:** Used promises for the first time in my application. It was great to use it. The code looked much neater and organized + I got to learn how to use them.
 
 **Link to work:** [Weather App] (https://github.com/gtalin/tipsNtricks) 
+
+**Link to work:** [Weather App] (https://github.com/gtalin/tipsNtricks) 
+
+## Day 55: February 26, 2017
+
+**Today's Progress**: Weather App
+
+**Thoughts:** Had some problems with weather API url. Was getting wrong data. Rectified it. 
+
+**Link to work:** [Weather App] (https://github.com/gtalin/tipsNtricks) 
