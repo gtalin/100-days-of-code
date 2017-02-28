@@ -465,3 +465,11 @@ I used ip-info.io to get the location data. Now due to some misunderstanding wit
 **Thoughts:** Had some problems with weather API url. Was getting wrong data. Rectified it. 
 
 **Link to work:** [Weather App] (https://github.com/gtalin/tipsNtricks) 
+
+## Day 56: February 27, 2017
+
+**Today's Progress**: Passport for authentication.
+
+**Thoughts:** In the process of reading and working through a tutorial on js authentication using passport.
+
+**Link to work:** No link
