@@ -473,3 +473,14 @@ I used ip-info.io to get the location data. Now due to some misunderstanding wit
 **Thoughts:** In the process of reading and working through a tutorial on js authentication using passport.
 
 **Link to work:** No link
+
+## Day 57: February 28, 2017
+
+**Today's Progress**: Weather App
+
+**Thoughts:** Weather icons I am using (by Erik Flowers) have a direct mapping for various weather APIs including openweather.org. Thus using those icons and directly adding the weather id we get from the API to the icon to get the appropriate icon.
+I did notice a slight problem with the icon right now though. The weather returned was hazy. Icon is also hazy but it returned a day time hazy icon as opposed to a night time hazy icon. So we'll probably have to check the time as well. Or we can simply use the basic weather icons there are (as indicated in main in api)
+Also read up on passport authentication.
+Still left: Need to sort out icons and capitalization of weather description. Make it look slightly better.
+
+**Link to work:**  [Weather App] (https://github.com/gtalin/tipsNtricks) 
