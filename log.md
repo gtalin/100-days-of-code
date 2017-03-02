@@ -484,3 +484,11 @@ Also read up on passport authentication.
 Still left: Need to sort out icons and capitalization of weather description. Make it look slightly better.
 
 **Link to work:**  [Weather App] (https://github.com/gtalin/tipsNtricks) 
+
+## Day 58: March 1, 2017
+
+**Today's Progress**: Star field in JS in progress.
+
+**Thoughts:** Making a starfield in JS. So far particles on a dark background (in canvas)
+
+**Link to work:**  No link.
