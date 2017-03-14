@@ -492,3 +492,13 @@ Still left: Need to sort out icons and capitalization of weather description. Ma
 **Thoughts:** Making a starfield in JS. So far particles on a dark background (in canvas)
 
 **Link to work:**  No link.
+
+## Day 59: March 14, 2017
+
+**Today's Progress**: Started work on force directed graph Free code camp
+
+**Thoughts:** I am following some force directed graph d3 tutorials I found online to do my free code camp project. Following the tutorial I was able to get circles as nodes.
+Need to use flags instead. Already have a feeling that is going to be tougher than I think. (have sprites with css making that work in SVG)
+Will also work on changing parameters for simulation so that it looks more open and nodes a bit farther apart.
+
+**Link to work:**  No link.
