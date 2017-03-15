@@ -502,3 +502,12 @@ Need to use flags instead. Already have a feeling that is going to be tougher th
 Will also work on changing parameters for simulation so that it looks more open and nodes a bit farther apart.
 
 **Link to work:**  No link.
+
+## Day 60: March 15, 2017
+
+**Today's Progress**: Force directed graph Free code camp
+
+**Thoughts:** Worked on changing parameters for simulation so that it looks more open and nodes a bit farther apart. Still not very happy with how the nodes look. Also searched a bit as to how I can use sprites to add flag images in graph.
+The graph is made with svg and the sprite sheet has a css file. If it was just html we could've added <img> tag and then classes as per the css sheet. But in d3, there is svg and that has <image> tag which doesn't take classes like the <img> tag does.
+
+**Link to work:**  No link.
