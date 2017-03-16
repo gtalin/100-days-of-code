@@ -511,3 +511,12 @@ Will also work on changing parameters for simulation so that it looks more open 
 The graph is made with svg and the sprite sheet has a css file. If it was just html we could've added <img> tag and then classes as per the css sheet. But in d3, there is svg and that has <image> tag which doesn't take classes like the <img> tag does.
 
 **Link to work:**  No link.
+
+## Day 61: March 16, 2017
+
+**Today's Progress**: Force directed graph Free code camp
+
+**Thoughts:** Was displaying country name for nodes by doing: node.append("title").text(...) This was working in chrome however today I checked on firefox. It wasn't working so used tooltip to display country name. 
+d3.forceX().strength and d3.forceY().strength causes graph to spread out more. Lesser the value, more spread out it is. 
+
+**Link to work:**  No link.
