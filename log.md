@@ -520,3 +520,15 @@ The graph is made with svg and the sprite sheet has a css file. If it was just h
 d3.forceX().strength and d3.forceY().strength causes graph to spread out more. Lesser the value, more spread out it is. 
 
 **Link to work:**  No link.
+
+## Day 62: March 17, 2017
+
+**Today's Progress**: Force directed graph Free code camp
+
+**Thoughts:** Need to add flags as HTMl in the graph becuase we have a sprite sheet with corresponding css. 
+The first approach I used, I used <image> and got the whole png file as node rather than part of the sprite sheet extracted. I had applied css class to the <image> but it works for <img> the html tag and not for <image> the svg tag.
+A comment in one of the forums said that in d3 not everything needs to be svg, we can make things html as well. First I tried attaching <img> tag to a <circle> but that did not work. 
+Then I decided to make my nodes as <img> rather than <image> and do away with <circle> all together. But when I made the nodes as html, the graph became static. I was able to get a unique flag for each node but I could no longer move the nodes. It looked like the final graph I was getting with circles as nodes but the nodes could not move and neither could I see the place attached to each node as I hovered over them.
+Thus I need to think of a better approach to make the graph work. 
+
+**Link to work:**  No link.
