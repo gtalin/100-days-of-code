@@ -532,3 +532,11 @@ Then I decided to make my nodes as <img> rather than <image> and do away with <c
 Thus I need to think of a better approach to make the graph work. 
 
 **Link to work:**  No link.
+
+## Day 63: March 18, 2017
+
+**Today's Progress**: Force directed graph Free code camp
+
+**Thoughts:** Need to add flag to an svg node: <g> That way we can add individual flags as well as maintain the interactive nature of the graph.
+
+**Link to work:**  No link.
