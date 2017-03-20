@@ -540,3 +540,11 @@ Thus I need to think of a better approach to make the graph work.
 **Thoughts:** Need to add flag to an svg node: <g> That way we can add individual flags as well as maintain the interactive nature of the graph.
 
 **Link to work:**  No link.
+
+## Day 64: March 19, 2017
+
+**Today's Progress**: File metadata API Free code camp 
+
+**Thoughts:** Started file metadata project, fcc, using multer package. 
+
+**Link to work:**  No link.
