@@ -548,3 +548,11 @@ Thus I need to think of a better approach to make the graph work.
 **Thoughts:** Started file metadata project, fcc, using multer package. 
 
 **Link to work:**  No link.
+
+## Day 65: March 20, 2017
+
+**Today's Progress**: Some exercises on free code camp. 
+
+**Thoughts:** Did some exercises on free code camp. 
+
+**Link to work:**  No link.
