@@ -572,3 +572,11 @@ Thus I need to think of a better approach to make the graph work.
 **Thoughts:** Did some exercises in codewars.
 
 **Link to work:**  No link.
+
+## Day 68: March 23, 2017
+
+**Today's Progress**: Socket JS
+
+**Thoughts:** Working through the socket.io chat app.
+
+**Link to work:**  No link.
