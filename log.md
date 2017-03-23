@@ -564,3 +564,11 @@ Thus I need to think of a better approach to make the graph work.
 **Thoughts:** Tried pair programming for the first time today.
 
 **Link to work:**  No link.
+
+## Day 67: March 22, 2017
+
+**Today's Progress**: Codewars
+
+**Thoughts:** Did some exercises in codewars.
+
+**Link to work:**  No link.
