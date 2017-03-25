@@ -580,3 +580,12 @@ Thus I need to think of a better approach to make the graph work.
 **Thoughts:** Working through the socket.io chat app.
 
 **Link to work:**  No link.
+
+## Day 69: March 24, 2017
+
+**Today's Progress**: Socket JS
+
+**Thoughts:** Working through the socket.io chat app. Had done app.listen(port) instead server.listen(port) and becuase of this my client side js was not able to access socket.io.js file.
+After changing several parameters (and checking several Stack overflow posts and shifting location of files by manually putting the socket.io.js file in the public directory) finally realised my mistake.
+
+**Link to work:**  No link.
