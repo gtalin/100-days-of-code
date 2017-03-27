@@ -589,3 +589,11 @@ Thus I need to think of a better approach to make the graph work.
 After changing several parameters (and checking several Stack overflow posts and shifting location of files by manually putting the socket.io.js file in the public directory) finally realised my mistake.
 
 **Link to work:**  No link.
+
+## Day 70: March 27, 2017
+
+**Today's Progress**: Codewars  
+
+**Thoughts:** Did some exercises on codewars. 
+
+**Link to work:**  No link.
