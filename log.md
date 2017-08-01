@@ -597,3 +597,21 @@ After changing several parameters (and checking several Stack overflow posts and
 **Thoughts:** Did some exercises on codewars. 
 
 **Link to work:**  No link.
+
+## Resumed 100 days of code on July 21, 2017
+
+## Day 71 - Day 81: July 21, 2017 - July 31, 2017
+
+**Last 10 day's Progress**: Worked on D3 scatter plot, worked on fcc project: national contiguity with a force directed graph and on Simon Says fcc project
+
+**Thoughts:** This is my 3rd attampt at Simon Says. Got a lot of functionalities right. In the sample provided, the pattern repeats if user doesn't click the correct button after a fixed time. Though that is not a requirement I was trying to replicate it but couldn't. This time though, the code seems better to read and comprehend. Last time the variables were all over the place. 
+
+**Link to work:** [Scatter Plot D3](https://codepen.io/gtalin/full/eEOJaZ/)  [Simon says](https://codepen.io/gtalin/full/XamyxM/) work in progress  
+
+## Day 82: August 1, 2017
+
+**Today's Progress**: Personal project using canvas
+
+**Thoughts:** Personal project using canvas
+
+**Link to work:**  No link.
