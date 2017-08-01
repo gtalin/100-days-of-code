@@ -606,7 +606,7 @@ After changing several parameters (and checking several Stack overflow posts and
 
 **Thoughts:** This is my 3rd attampt at Simon Says. Got a lot of functionalities right. In the sample provided, the pattern repeats if user doesn't click the correct button after a fixed time. Though that is not a requirement I was trying to replicate it but couldn't. This time though, the code seems better to read and comprehend. Last time the variables were all over the place. 
 
-**Link to work:** [Scatter Plot D3](https://codepen.io/gtalin/full/eEOJaZ/)  [Simon says](https://codepen.io/gtalin/full/XamyxM/) work in progress  
+**Link to work:** [Scatter Plot D3](https://codepen.io/gtalin/full/eEOJaZ/) , [Simon says](https://codepen.io/gtalin/full/XamyxM/) work in progress  
 
 ## Day 82: August 1, 2017
 
