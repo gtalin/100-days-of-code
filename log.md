@@ -615,3 +615,11 @@ After changing several parameters (and checking several Stack overflow posts and
 **Thoughts:** Personal project using canvas
 
 **Link to work:**  No link.
+
+## Day 83: August 2, 2017
+
+**Today's Progress**: Personal project using canvas
+
+**Thoughts:** The pacrticles move with the cursor. We can change color of the particles by clicking on the screen. 
+
+**Link to work:**  [Moving Particles](https://codepen.io/gtalin/full/YxWwPY/)
