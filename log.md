@@ -623,3 +623,18 @@ After changing several parameters (and checking several Stack overflow posts and
 **Thoughts:** The pacrticles move with the cursor. We can change color of the particles by clicking on the screen. 
 
 **Link to work:**  [Moving Particles](https://codepen.io/gtalin/full/YxWwPY/)
+
+## Day 84: August 3, 2017
+
+**Today's Progress**: Map data across the globe (freeCodeCamp D3)
+
+**Thoughts:** Quite an exciting project. I had displayed the world map before (with the help of a few online tutorials. Used data for map from a tutorial as well). Today I mainly focussed on displaying data on the graph. We have to plot asteroid data in the map. It is a wide distribution with data (mass) ranging from 0.12 to 23000000. The points on the graph need to be plotted as per their latitude and longitude but should also reflect the mass of the asteriod. 
+I applied **standardization** (wrong idea for data which needs to be plotted on a map because we're basically making mean of data 0 and points will range from -1 to 1. Slightly difficult to plot it and doesn't represent the true nature of mass).
+Next tried **normalization**: works fine. Data becomes small. But if we multiply each data point with 100, It's fine.
+Also tried **log transformation** since the distribution of data is quite large: 0.12 to 23000000. But with this the graph looks very full. All radii become rather large this way + a few negative values as well.
+So did **log transformation and then normalization**. Due to normalization, the negative values were reduced but then data points became quite small.
+Last for today: I considered data points as corresponding to area so found radii: Math.sqrt(data/Math.PI). This radii value was still quite large so divided by 100. This looks quite like normalizedpointx100.
+Normalization or square root both work okay. But the data points still don't look like what it was in the sample graph provided. In fact in the sample graph, there are 2 points along east china and east russia. One is 23000000 and other is 4000000. First is 6 times as large as the latter. But in the graph provided, it doesn't reflect so. 
+So even though my data points look different from the ones in the graph provided, they are readable and look logical. So for now this is all with data transformation. Will shift focus to tooltip and magnifying map feature. 
+
+**Link to work:**  [Data across globe](https://codepen.io/gtalin/full/jLEwVr/)
