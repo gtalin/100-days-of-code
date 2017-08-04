@@ -629,14 +629,41 @@ After changing several parameters (and checking several Stack overflow posts and
 **Today's Progress**: Map data across the globe (freeCodeCamp D3)
 
 **Thoughts:** Quite an exciting project. I had displayed the world map before (with the help of a few online tutorials. Used data for map from a tutorial as well). Today I mainly focussed on displaying data on the graph. We have to plot asteroid data in the map. It is a wide distribution with data (mass) ranging from 0.12 to 23000000. The points on the graph need to be plotted as per their latitude and longitude but should also reflect the mass of the asteriod. 
+
 I applied **standardization** (wrong idea for data which needs to be plotted on a map because we're basically making mean of data 0 and points will range from -1 to 1. Slightly difficult to plot it and doesn't represent the true nature of mass).
+
 Next tried **normalization**: works fine. Data becomes small. But if we multiply each data point with 100, It's fine.
+
 Also tried **log transformation** since the distribution of data is quite large: 0.12 to 23000000. But with this the graph looks very full. All radii become rather large this way + a few negative values as well.
+
 So did **log transformation and then normalization**. Due to normalization, the negative values were reduced but then data points became quite small.
+
 Last for today: I considered data points as corresponding to area so found radii: Math.sqrt(data/Math.PI). This radii value was still quite large so divided by 100. This looks quite like normalizedpointx100.
+
 Normalization or square root both work okay. But the data points still don't look like what it was in the sample graph provided. In fact in the sample graph, there are 2 points along east china and east russia. One is 23000000 and other is 4000000. First is 6 times as large as the latter. But in the graph provided, it doesn't reflect so. 
+
 So even though my data points look different from the ones in the graph provided, they are readable and look logical. So for now this is all with data transformation. Will shift focus to tooltip and magnifying map feature. 
+
 **Edit**One more point to add: I am doing Math.ceil() for the radius which is not right transformation. Doing it to make the data point readable without blowing up some large data points even more. However this is very bad data transformation because if we increase a data point, the percentage of increase should be uniform across all data points. Thus adding 2 to all data points is wrong but multiplying them all by 2 is fine. 
+
 **Edit2** When it comes to bar charts, log transform is good (specially for data like we have here) But probably not so much when radii is dependent on data value. Because then size of all data points looks very similar. So it would defeat the purpose of plotting point size based on data.
+
+
+**Link to work:**  [Data across globe](https://codepen.io/gtalin/full/jLEwVr/)
+
+## Day 85: August 4, 2017
+
+**Today's Progress**: Map data across the globe (freeCodeCamp D3)
+
+**Thoughts:** 
+- Made tooltip for the data points. 
+- Got Zoom feature for map. Mainly looked around at few examples for zoom: [D3 zoom](https://coderwall.com/p/psogia/simplest-way-to-add-zoom-pan-on-d3-js) (With this method the zoom works quite well. The zoom in the sample provided in fcc is not working correctly. When we zoom, the map and the data points don't move together)
+- Added color to data points (initially was usin red)
+- Color change when we mouseover a point and on mouseout changing back to original color.
+Some features missing at present:
+- The map is not responsive (I am not sure if I'll add the responsive feature.)
+- In some places large data points are plotted over smaller ones and when I mouseover them, can only see info for large data points which are sort of covering the smaller ones (can still see the points because opacity is less than 1. But should be able to see their info in the tooltip. 
+
+The code doesn't look very neat. I have used map data from: [D3 noob](http://www.d3noob.org/2013/03/a-simple-d3js-map-explained.html). There is a [tutorial](https://bost.ocks.org/mike/map/) from Mike Bostock of how we can extract world map data but since I had already found the world map data, I did not extract my own.
 
 **Link to work:**  [Data across globe](https://codepen.io/gtalin/full/jLEwVr/)
