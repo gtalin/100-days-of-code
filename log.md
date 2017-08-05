@@ -660,10 +660,23 @@ So even though my data points look different from the ones in the graph provided
 - Got Zoom feature for map. Mainly looked around at few examples for zoom: [D3 zoom](https://coderwall.com/p/psogia/simplest-way-to-add-zoom-pan-on-d3-js) (With this method the zoom works quite well. The zoom in the sample provided in fcc is not working correctly. When we zoom, the map and the data points don't move together)
 - Added color to data points (initially was usin red)
 - Color change when we mouseover a point and on mouseout changing back to original color.
+
 Some features missing at present:
 - The map is not responsive (I am not sure if I'll add the responsive feature.)
 - In some places large data points are plotted over smaller ones and when I mouseover them, can only see info for large data points which are sort of covering the smaller ones (can still see the points because opacity is less than 1. But should be able to see their info in the tooltip. 
 
-The code doesn't look very neat. I have used map data from: [D3 noob](http://www.d3noob.org/2013/03/a-simple-d3js-map-explained.html). There is a [tutorial](https://bost.ocks.org/mike/map/) from Mike Bostock of how we can extract world map data but since I had already found the world map data, I did not extract my own.
+I have used map data from: [D3 noob](http://www.d3noob.org/2013/03/a-simple-d3js-map-explained.html). There is a [tutorial](https://bost.ocks.org/mike/map/) from Mike Bostock of how we can extract world map data but since I had already found the world map data, I did not extract my own.
 
 **Link to work:**  [Data across globe](https://codepen.io/gtalin/full/jLEwVr/)
+
+## Day 86: August 5, 2017
+
+**Today's Progress**: Map data across the globe (freeCodeCamp D3)
+
+**Thoughts:** 
+- Basically we have overlapping svg layers. First I tried to find a way where I could make the lower(smaller) layer get the mousemove event. Then I researched a bit and found on [google groups](https://groups.google.com/forum/#!topic/d3-js/eUEJWSSWDRY) that best is to arrange layers so that smaller layers are on top. So that's what I did. I sorted the data in descending order so that larger circles get plotted first and smaller ones get plotted on top of them. 
+- The map is not responsive (I am not sure if I'll add the responsive feature.)
+
+The code doesn't look very neat. But can't spend more time on it. 
+
+**Link to work:**  [Data across map](https://codepen.io/gtalin/full/jLEwVr/)
