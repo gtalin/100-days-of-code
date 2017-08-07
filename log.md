@@ -680,3 +680,11 @@ I have used map data from: [D3 noob](http://www.d3noob.org/2013/03/a-simple-d3js
 The code doesn't look very neat. But can't spend more time on it. 
 
 **Link to work:**  [Data across map](https://codepen.io/gtalin/full/jLEwVr/)
+
+## Day 87: August 7, 2017
+
+**Today's Progress**: Read up on Perlin noise. 
+
+**Thoughts:** Read up on Perlin noise for a new project. Did some work in canvas.
+
+**Link to work:**  No link
