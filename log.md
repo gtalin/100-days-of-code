@@ -688,3 +688,11 @@ The code doesn't look very neat. But can't spend more time on it.
 **Thoughts:** Read up on Perlin noise for a new project. Did some work in canvas.
 
 **Link to work:**  No link
+
+## Day 88: August 8, 2017
+
+**Today's Progress**: Working on React Game of Life freeCodeCamp app. 
+
+**Thoughts:** Created a grid in React. Working on changing the gird as we click on buttons on screen. 
+
+**Link to work:**  No link
