@@ -696,3 +696,15 @@ The code doesn't look very neat. But can't spend more time on it.
 **Thoughts:** Created a grid in React. Working on changing the gird as we click on buttons on screen. 
 
 **Link to work:**  No link
+
+## Day 89: August 9, 2017
+
+**Today's Progress**: Shooter game: a canvas project I was working on for sometime. 
+
+**Thoughts:** A fun little project that I had been working on. Can add more features to it. But wanted to put what I had done so far on codepen. This project started when I was just working on learning setInterval and had seen a page where snow was falling. I wanted to make something similar and thus made raining balls where basically just colorful balls drop from the sky. 
+
+Did learn a lot about using setInterval and also about attaching event listeners. In theprevious version (raining balls) I was attaching event listeners again and again and that was messing up the app and amking it act erraticaly. Also learnt about clearInterval. Both of these are useful for Pomodoro timer, Simon says and several other mini-projects. 
+
+Also such apps are fun for putting working around with objects. 
+
+**Link to work:**  [Shooter game](https://codepen.io/gtalin/full/LjymVq/)
