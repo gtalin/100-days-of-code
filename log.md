@@ -708,3 +708,15 @@ Did learn a lot about using setInterval and also about attaching event listeners
 Also such apps are fun for putting working around with objects. 
 
 **Link to work:**  [Shooter game](https://codepen.io/gtalin/full/LjymVq/)
+
+## Day 90: August 10, 2017
+
+**Today's Progress**: Worked on the free code camp game Simon Says appearance.
+
+**Thoughts:** 
+- Did the On/Off switch. (input event propagation)
+- Glossy appearance to buttons.
+- Win check
+- strict mode selection button change.
+
+**Link to work:**  [Simon Says game](https://codepen.io/gtalin/full/XamyxM/)
