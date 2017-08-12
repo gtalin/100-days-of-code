@@ -720,3 +720,12 @@ Also such apps are fun for putting working around with objects.
 - strict mode selection button change.
 
 **Link to work:**  [Simon Says game](https://codepen.io/gtalin/full/XamyxM/)
+
+## Day 91 and 92: August 11, 2017 and August 12, 2017
+
+**Today's Progress**: Worked on canvas. Trying to get Northern Lights using canvas. 
+
+**Thoughts:** 
+Have got something but the animation is kind of patchy. I think I need something like Perlin Noise (saw Daniel Shiffman's video regarding it. So that the points don't change a lot with each iteration. Or maybe there is something wrong with how I am displaying the points. 
+
+**Link to work:**  [Northern Lights Canvas](https://codepen.io/gtalin/full/zddGKb/)
