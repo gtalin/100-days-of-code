@@ -729,3 +729,11 @@ Also such apps are fun for putting working around with objects.
 Have got something but the animation is kind of patchy. I think I need something like Perlin Noise (saw Daniel Shiffman's video regarding it. So that the points don't change a lot with each iteration. Or maybe there is something wrong with how I am displaying the points. 
 
 **Link to work:**  [Northern Lights Canvas](https://codepen.io/gtalin/full/zddGKb/)
+
+## Day 93: August 13, 2017
+
+**Today's Progress**: Sign-up form using flexbox.
+
+**Thoughts:** Used flex-box
+
+**Link to work:**  [Sign-up form](https://codepen.io/gtalin/full/wqqVaL/)
