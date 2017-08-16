@@ -737,3 +737,11 @@ Have got something but the animation is kind of patchy. I think I need something
 **Thoughts:** Used flex-box
 
 **Link to work:**  [Sign-up form](https://codepen.io/gtalin/full/wqqVaL/)
+
+## Day 94 and 95: August 14, 2017 and August 15, 2017
+
+**Today's Progress**: Creating animation with layers using css and js
+
+**Thoughts:** Creating animation with layers using css and js. Was inspired to try layer animation seeing [Interactive resume](http://www.rleonardi.com/interactive-resume/)
+
+**Link to work:**  No link
