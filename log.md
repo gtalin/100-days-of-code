@@ -745,3 +745,12 @@ Have got something but the animation is kind of patchy. I think I need something
 **Thoughts:** Creating animation with layers using css and js. Was inspired to try layer animation seeing [Interactive resume](http://www.rleonardi.com/interactive-resume/)
 
 **Link to work:**  No link
+
+## Day 96: August 30, 2017
+
+**Today's Progress**: Worked on UI based on a dribble shot
+
+**Thoughts:** Used flexbox. 
+
+**Link to work:**  https://codepen.io/gtalin/full/oeQKOy/
+
