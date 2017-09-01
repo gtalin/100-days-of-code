@@ -754,3 +754,10 @@ Have got something but the animation is kind of patchy. I think I need something
 
 **Link to work:**  https://codepen.io/gtalin/full/oeQKOy/
 
+## Day 97: August 31, 2017
+
+**Today's Progress**: Worked on part of portfolio site. 
+
+**Thoughts:** Editing and incorporating correct size image, using cloudinary for image, Using CSS transitions to get some effects on hover.
+
+**Link to work:**  https://codepen.io/gtalin/full/oeJOWW/
