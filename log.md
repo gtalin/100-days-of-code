@@ -761,3 +761,11 @@ Have got something but the animation is kind of patchy. I think I need something
 **Thoughts:** Editing and incorporating correct size image, using cloudinary for image, Using CSS transitions to get some effects on hover.
 
 **Link to work:**  https://codepen.io/gtalin/full/oeJOWW/
+
+## Day 98: September 1, 2017
+
+**Today's Progress**: Survey Form FCC
+
+**Thoughts:** Started survey form fcc. Main focus for the past few days has been html and css.
+
+**Link to work:**  https://codepen.io/gtalin/pen/VzgdrE
