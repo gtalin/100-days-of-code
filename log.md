@@ -769,3 +769,11 @@ Have got something but the animation is kind of patchy. I think I need something
 **Thoughts:** Started survey form fcc. Main focus for the past few days has been html and css.
 
 **Link to work:**  https://codepen.io/gtalin/pen/VzgdrE
+
+## Day 99: September 3, 2017
+
+**Today's Progress**: Survey Form FCC
+
+**Thoughts:** Completed survey form. Passed all the tests. Used media query as well. 
+
+**Link to work:**  https://codepen.io/gtalin/pen/VzgdrE
