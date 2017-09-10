@@ -777,3 +777,11 @@ Have got something but the animation is kind of patchy. I think I need something
 **Thoughts:** Completed survey form. Passed all the tests. Used media query as well. 
 
 **Link to work:**  https://codepen.io/gtalin/pen/VzgdrE
+
+## Day 100: September 10, 2017
+
+**Today's Progress**: Codewars exercises. 
+
+**Thoughts:** Did codewars after quite some time. 
+
+**Link to work:**  No link.
